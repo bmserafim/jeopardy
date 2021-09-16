@@ -1,4 +1,4 @@
-Another small project developed as a Data Science exercise, adapted from a challange proposed by Codecademy.
+Another small project developed as a Data Science exercise, adapted from a challenge proposed by Codecademy.
 
 Starting from a CSV file provided by the platform, data was collected, cleaned and organized in dataframes.  
 
